@@ -1,7 +1,7 @@
 /* the styles for the HTML elements */
 body {
     margin-top: 0;
-    background-color: #000080;
+    background-color: green;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
@@ -63,23 +63,6 @@ br {
     clear: left;
 }
 
-#springDropdwn
-{
-    visibility: hidden;
-    
-}
-
-#summerDropdwn
-{
-    visibility: hidden;
-    
-}
-
-#fallDropdwn
-{
-    visibility: hidden;
-    
-}
 /* the styles for the div tags that divide the page into sections */
 #page {
     width: 760px;
